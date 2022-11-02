@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0000003d;
+  color: rgb(255, 255, 255);
+}
+
+.searchBar {
+  outline: none;
+  border: none;
+  background: none;
+  color: rgb(238, 238, 238);
+  margin-left: 10%;
+}
